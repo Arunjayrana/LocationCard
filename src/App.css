@@ -1,0 +1,14 @@
+.home {
+  /* display: flex; */
+  justify-content: center;
+  padding: 20px;
+  margin-left: 100px;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.home h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
