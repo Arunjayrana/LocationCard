@@ -35,4 +35,10 @@ custom Hook for data fetching.
 
 Excluded: Unit testing.
 
--
+- How to Run : -
+
+2. install node_module
+   RUN:- npm install
+
+3. For run the project.
+   RUN:- npm run dev
