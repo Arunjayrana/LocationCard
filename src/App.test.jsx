@@ -10,7 +10,7 @@ test("First test", () => {
   expect(linkElement).toBeInTheDocument();
 });
 
-// Test Child Components
+// Test Child Component
 test("Test child components:", () => {
   render(<ChildComponent />);
   const linkElement = screen.getByText(

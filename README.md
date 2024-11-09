@@ -1,3 +1,4 @@
+
 # React + Vite
 
 ## Location Card components
@@ -42,3 +43,8 @@ Excluded: Unit testing.
 
 3. For run the project.
    RUN:- npm run dev
+
+
+Outpur of the Tast: -
+
+![Screenshot (220)](https://github.com/user-attachments/assets/294de067-2f79-460b-935f-03e0473a1487)
