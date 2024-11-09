@@ -34,7 +34,6 @@ Outcome: Done all the task as requirement. accept unit testing.
 Included: Reusable card component with customized component, Handling Missing or Optional Data, using key for unnecessary re-render of another component,
 custom Hook for data fetching.
 
-Excluded: Unit testing.
 
 - How to Run : -
 
